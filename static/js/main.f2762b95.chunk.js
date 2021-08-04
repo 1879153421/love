@@ -1,0 +1,2 @@
+(this.webpackJsonpselect=this.webpackJsonpselect||[]).push([[0],{9:function(e,t,n){"use strict";n.r(t);n(1);var c=n(3),r=n.n(c),s=n(0);var i=function(){return Object(s.jsx)(s.Fragment,{children:Object(s.jsx)("h1",{children:"\u8fd9\u662f\u4e00\u4e2a\u6807\u9898"})})};r.a.render(Object(s.jsx)(i,{}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.f2762b95.chunk.js.map
